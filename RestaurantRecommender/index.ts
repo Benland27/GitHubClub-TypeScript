@@ -1,4 +1,4 @@
-import restaurants from 'RestaurantRecommender/restaurants';
+import restaurants from './restaurant';
 
 const dollarSigns = '$$';
 const deliveryTimeMax = 90;
